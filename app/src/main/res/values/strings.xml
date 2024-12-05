@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Spiner</string>
+
+    <string-array name="spiner1">
+        <item>Все</item>
+        <item>Водители</item>
+        <item>Охранники</item>
+        <item>Механики</item>
+        <item>Диспетчеры</item>
+
+    </string-array>
+    <string-array name="spiner2">
+
+        <item>Водитель</item>
+        <item>Охранник</item>
+        <item>Механик</item>
+        <item>Диспетчер</item>
+
+    </string-array>
+</resources>
